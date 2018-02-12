@@ -1,0 +1,15 @@
+.important {
+  color: darkred;
+  text-align: left;
+}
+.unique {
+  color: blue;
+  text-align: left;
+}
+img {
+  float: center;
+}
+body {
+  background-color: black;
+  color: skyblue;
+}
